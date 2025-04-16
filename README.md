@@ -20,7 +20,8 @@ This is my personal website where I present my freelance services in web develop
 ## Screenshots
 
 ### Homepage
-![Homepage]([https://github.com/user-attachments/assets/2e991a64-9a42-47d8-8bb1-8bed8d88fb85](https://github.com/user-attachments/assets/9d2c8872-87cf-44aa-8fba-966a0cbbe728))
+![Homepage](https://github.com/user-attachments/assets/64b96c14-1afd-4634-824c-2b6aab829a67)
+
 
 ### Portfolio Section
 ![Portfolio](https://github.com/user-attachments/assets/0b100551-efce-4732-830f-e32655ad7780)
